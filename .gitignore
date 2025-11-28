@@ -1,1 +1,4 @@
 targer/
+.idea/
+*.iml
+dependency-reduced-pom.xml
