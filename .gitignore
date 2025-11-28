@@ -4,3 +4,4 @@ target/
 dependency-reduced-pom.xml
 src/main/java/com/steam/util/SendVerification.java
 src/main/java/com/steam/util/DBConnection.java
+src/main/java/com/steam/util/RandomCode.java
