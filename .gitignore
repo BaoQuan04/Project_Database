@@ -2,3 +2,5 @@ target/
 .idea/
 *.iml
 dependency-reduced-pom.xml
+src/main/java/com/steam/util/SendVerification.java
+src/main/java/com/steam/util/DBConnection.java
